@@ -29,9 +29,9 @@ app.set("views", viewsFolder);
 app.set("view engine", "handlebars");
 
 const messages = [
-    { author: "Juan", text: "¡Hola! ¿Que tal?" },
-    { author: "Pedro", text: "¡Muy bien! ¿Y vos?" },
-    { author: "Ana", text: "¡Genial!" }
+    { author: "Juan@gmail.com", text: "¡Hola! ¿Que tal?" },
+    { author: "Pedro@gmail.com", text: "¡Muy bien! ¿Y vos?" },
+    { author: "Ana@gmail.com", text: "¡Genial!" }
 ];
 
 //configurar el socket del lado del backend

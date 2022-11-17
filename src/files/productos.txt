@@ -4,6 +4,11 @@
     "title": "Mouse",
     "price": "2323",
     "thumbnail": "https://resource.logitech.com/content/dam/logitech/en/products/mice/m190-wireless-mouse/m190-wireless-mouse-charcoal-gallery-01.png"
+  },
+  {
+    "id": 5,
+    "title": "fr1",
+    "price": "80555",
+    "thumbnail": "https://www.inercia.com/media/catalog/product/cache/1/image/800x800/444c2d39b70eef4bd4be784a84c4e942/f/r/fr_-_fr1_80_-_light_blue_1_1.jpg"
   }
-  
 ]
